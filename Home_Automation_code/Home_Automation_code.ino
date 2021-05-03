@@ -4,7 +4,7 @@
 
 char auth[] = " Fxu84-44_sJFViPlXb34rtQS5XMgaasP";
 #define ssid "Vivo V20" //can also write const char/string ="saksham"  
-#define pass "ufuckyou"
+#define pass "kanchanr"
 
 WiFiServer server(80);
 
